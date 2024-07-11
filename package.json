@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vivekkakadiya/Notes-using-Spring-Boot.git"
+    "url": "https://github.com/p18an1v/Note-IT.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vivekkakadiya/Notes-using-Spring-Boot/issues"
+    "url": "https://github.com/p18an1v/Note-IT.git"
   },
-  "homepage": "https://github.com/vivekkakadiya/Notes-using-Spring-Boot#readme"
+  "homepage": "https://github.com/p18an1v/Note-IT.git"
 }
